@@ -1,7 +1,7 @@
 <html>
 <img src="courseralogo.png"></img>
 <img src="jhulogo.png"></img> 
-<h1> <a>Data Science Foundation: Getting and Cleaning Data</a></h1>
+<h1> <a url="https://www.coursera.org/learn/data-cleaning/home/welcome">Data Science Foundation: Getting and Cleaning Data</a></h1>
 <br></br>
 </html>
 
