@@ -11,6 +11,5 @@
 <p>Data is included in zip folder.</p> 
 </html>
 Also available at: 
-
-[xxx](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) 
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) 
 
