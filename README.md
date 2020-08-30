@@ -1,5 +1,5 @@
 <html>
-<img src="https://lever-client-logos.s3.amazonaws.com/coursera-150x35.png"></img>
+<img src="courseralogo.png"></img>
 <img src="jhulogo.png"></img> 
 <h1> Data Science Foundation: Getting and Cleaning Data</h1>
 <br></br>
