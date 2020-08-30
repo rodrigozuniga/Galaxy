@@ -5,7 +5,8 @@
 <br>
 
 </html>
-[linking]("https://www.coursera.org/learn/data-cleaning/home/welcome")
+
+[linking](https://www.coursera.org/learn/data-cleaning/home/welcome)
 
 
 ## **Final Project: Human Activity Recognition with Galaxy Phone Data** ##
