@@ -11,7 +11,7 @@
 <p>Datasets are included in getdata_projectfiles_UCI_HAR_Dataset.zip</p> 
 </html>
 
-Also available at: 
+Datasets are also available at: 
 [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) 
 
 The run_analysis.R script does the following:
