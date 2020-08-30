@@ -1,3 +1,1 @@
-# Galaxy
-<hr>
-Getting and Cleaning Data Course Project: Galaxy Phone Data
+# Getting and Cleaning Data: Galaxy Phone Data # 
