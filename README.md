@@ -1,1 +1,2 @@
-# Getting and Cleaning Data: Galaxy Phone Data # 
+# Getting and Cleaning Data
+# Final Project: Galaxy Phone Data # 
