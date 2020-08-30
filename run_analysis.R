@@ -1,4 +1,5 @@
-setwd("C:\\Users\\rodri\\Dropbox\\Education\\R\\RClass3\\UCI HAR Dataset")
+
+setwd("C:\\Users\\rodri\\Dropbox\\Education\\R\\RClass3\\UCIHARDataset\\Galaxy")
 ##Y:test and train
 y_test<-read.table(".\\test\\y_test.txt")
 subjectid_test<-read.table(".\\test\\subject_test.txt")
@@ -29,7 +30,7 @@ X_all=rbind(X_test,X_train)
 
 ##X:mean and std only; exclude meanFreq
 xvarnames_w_meanstd<-grep('mean|std',X_varnames$V2,value=T)
-xvarnames_w_meanstd_wo_freq<-varnames_w_meanstd[-grep('(Freq)',varnames_w_meanstd)]
+xvarnames_w_meanstd_wo_freq<-xvarnames_w_meanstd[-grep('(Freq)',xvarnames_w_meanstd)]
 X_all_meanstd<-X_all[,xvarnames_w_meanstd_wo_freq]
 
 ##finaldataset: y_all and X_all_meanstd
@@ -37,5 +38,5 @@ finaldataset<-cbind(y_all,X_all_meanstd)
 dim(finaldataset)
 
 ##finaldatasetaggregate: mean by activity and subjectid
-finaldatasetaggregate<-aggregate(finaldataset,FUN=mean,list(activity=f1$activity,subjectid=f1$subjectid))
+finaldatasetaggregate<-aggregate(finaldataset[,4:69],FUN=mean,list(activity=finaldataset$activity,subjectid=finaldataset$subjectid))
 
