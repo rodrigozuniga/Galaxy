@@ -2,4 +2,4 @@
 <img src="jhulogo.png"></img>
 <h1> Getting and Cleaning Data: </h1>
 <br>
-## Final Project: Galaxy Phone Data ## 
+<h2> Final Project: Galaxy Phone Data </h2> 
