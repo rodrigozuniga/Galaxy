@@ -5,4 +5,4 @@
 <br></br>
 </html>
 
-***Final Project: Galaxy Phone Data*** 
+**Final Project: Galaxy Phone Data** 
