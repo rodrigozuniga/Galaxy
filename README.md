@@ -8,7 +8,7 @@
 ## **Final Project: Human Activity Recognition with Galaxy Phone Data** ##
 
 <html>
-<p>Data is included in zip folder.</p> 
+<p>Datasets are included in getdata_projectfiles_UCI_HAR_Dataset.zip</p> 
 </html>
 
 Also available at: 
