@@ -5,12 +5,10 @@
     <br>
 </html>
 
-[linking](https://www.coursera.org/learn/data-cleaning/home/welcome)
-
-
 ## **Final Project: Human Activity Recognition with Galaxy Phone Data** ##
 
 <html>
 <p>Data is included in zip folder.</p> 
-<p>Also available at: https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones </p>
 </html>
+Also available at: [xxx](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) 
+
