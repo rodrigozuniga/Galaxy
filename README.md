@@ -7,5 +7,7 @@
 
 **Final Project: Galaxy Phone Data** 
 
-Data is included in zip folder. 
-Also available at: https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+<html>
+<p>Data is included in zip folder.</p> 
+<p>Also available at: https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones </p>
+</html>
