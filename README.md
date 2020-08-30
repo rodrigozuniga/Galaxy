@@ -5,7 +5,7 @@
 <br></br>
 </html>
 
-**Final Project: Galaxy Phone Data** 
+## **Final Project: Galaxy Phone Data** ##
 
 <html>
 <p>Data is included in zip folder.</p> 
