@@ -5,7 +5,7 @@
     <br>
 </html>
 
-## **Final Project: Human Activity Recognition using Galaxy Phone Data** ##
+## **Final Project: Human Activity Recognition Using Galaxy Phone Data** ##
 
 <html>
 <p>Datasets are included in getdata_projectfiles_UCI_HAR_Dataset.zip</p> 
